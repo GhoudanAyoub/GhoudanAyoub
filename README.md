@@ -2,7 +2,7 @@
 
 
 ## I'm Mobile Application Developer 
-  A highly skilled mobile developer with a solid experience in Java, Kotlin, FireBase etc. and an appetite for exploring new technologies.
+  A highly skilled mobile developer with a solid experience in Java, Kotlin. and an appetite for exploring new technologies.
   
   
 - 🔭 I’m currently working on ... Mobile Application Development
