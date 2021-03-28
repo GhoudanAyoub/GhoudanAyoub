@@ -21,6 +21,6 @@
 </a>&nbsp;
   <a href="https://www.treeprog.tk/" target="blank"><img align="top" src="https://img.shields.io/badge/WebSite%20-%23323330.svg?&style=for-the-badge" alt="chizaram-success"/></a>
  <img src="https://gpvc.arturio.dev/GhoudanAyoub" />
- &nbsp;&nbsp;
+ &nbsp;&nbsp;</p>
    <img src="https://github-readme-stats.vercel.app/api?username=GhoudanAyoub&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-</p>
+
