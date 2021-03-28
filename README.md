@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/ayoub-ghoudan-36a122161/" alt="Connect on LinkedIn"> 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
-<a href="mailto:killerb70000@gmail.com">
+<a href="mailto:ayoubghoudanos@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;
   <a href="https://www.treeprog.tk/" target="blank"><img align="top" src="https://img.shields.io/badge/WebSite%20-%23323330.svg?&style=for-the-badge" alt="chizaram-success"/></a>
