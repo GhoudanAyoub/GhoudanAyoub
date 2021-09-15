@@ -24,4 +24,6 @@
  &nbsp;&nbsp;</p>
  <p align='center'>
    <img src="https://github-readme-stats.vercel.app/api?username=GhoudanAyoub&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GhoudanAyoub)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
