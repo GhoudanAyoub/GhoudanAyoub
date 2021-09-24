@@ -6,9 +6,8 @@
   
   
 - 🔭 I’m currently working on Fiverr as a Mobile Application Developer
-- 🌱 I’m currently learning ... React Native For My Next Project
+- 🌱 I’m currently learning ... Swift For My Next Project
 - 🤔 I’m looking for help with ... AI Related Works
-- 💬 Ask me about ... Mobile Application Development
 - ⚡ Fun fact: ... The Bigger the bullet the more that bitch gon'bang
 
 ## Connect with me:
