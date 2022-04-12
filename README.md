@@ -1,4 +1,4 @@
-### Hi there 👋 I m Happy To Know That You Just Visited My Github Profile
+### Hi there 👋 I'm Glad to know that you visited My Profile
 
 
 ## I'm Mobile Application Developer 
@@ -21,7 +21,7 @@
   <a href="https://ayoubghoudan.web.app/" target="blank"><img align="top" src="https://img.shields.io/badge/WebSite%20-%23323330.svg?&style=for-the-badge" alt="chizaram-success"/></a>
  <img src="https://gpvc.arturio.dev/GhoudanAyoub" />
  &nbsp;&nbsp;</p>
-   <img src="https://github-readme-stats.vercel.app/api?username=GhoudanAyoub&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhoudanAyoub&layout=compact" />
+ <img src="https://github-readme-stats.vercel.app/api?username=GhoudanAyoub&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhoudanAyoub&layout=compact" />
 
 
