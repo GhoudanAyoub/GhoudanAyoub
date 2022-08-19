@@ -24,6 +24,4 @@
  &nbsp;&nbsp;
  <img src="https://github-readme-stats.vercel.app/api?username=GhoudanAyoub&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhoudanAyoub&layout=compact" />
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GhoudanAyoubb&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GhoudanAyoub&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
