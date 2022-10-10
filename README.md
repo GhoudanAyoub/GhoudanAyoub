@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on Fiverr as a Mobile Application Developer
 - 🌱 I’m currently learning ... Swift For My Next Project
 - 🤔 I’m looking for help with ... AI Related Works
-- ⚡ Fun fact: ... The Bigger the bullet the more that bitch gon'bang
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/ayoub-ghoudan-36a122161/" alt="Connect on LinkedIn"> 
