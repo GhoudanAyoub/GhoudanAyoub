@@ -5,7 +5,7 @@
   A highly skilled mobile developer with a solid experience in Java, Kotlin. and an appetite for exploring new technologies.
   
   
-- 🔭 I’m currently working on Fiverr as a Mobile Application Developer
+- 🔭 I’m currently working as a Android Developer 
 - 🌱 I’m currently learning ... Swift For My Next Project
 - 🤔 I’m looking for help with ... AI Related Works
 
