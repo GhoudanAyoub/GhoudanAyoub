@@ -2,12 +2,8 @@
 
 
 ## I'm Mobile Application Developer 
-  A highly skilled mobile developer with a solid experience in Java, Kotlin. and an appetite for exploring new technologies.
-  
-  
-- 🔭 I’m currently working as a Android Developer 
-- 🌱 I’m currently learning ... Swift For My Next Project
-- 🤔 I’m looking for help with ... AI Related Works
+ - 🔭 Senior Mobile Developer Specializing in crafting high-performance, intuitive mobile applications that prioritize user-centric design. Passionate about optimizing the user experience at every stage of the product lifecycle, from ideation to deployment. Proven track record of solving complex technical challenges in fast-paced environments, driven by a commitment to technological innovation. Thrives in collaborative settings where strategic vision and technical execution intersect.
+
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/ayoub-ghoudan-36a122161/" alt="Connect on LinkedIn"> 
@@ -16,7 +12,7 @@
 <a href="mailto:ayoubghoudanos@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;
-  <a href="https://ayoubghoudan.web.app/" target="blank">
+  <a href="https://ayoubghoudan.com/" target="blank">
   <img align="top" src="https://img.shields.io/badge/WebSite%20-%23323330.svg?&style=for-the-badge" alt="chizaram-success"/>
 </a>&nbsp;
  <img src="https://gpvc.arturio.dev/GhoudanAyoub" />
